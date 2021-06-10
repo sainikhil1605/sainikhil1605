@@ -11,4 +11,7 @@
 <img src="./java.png" width=100 height=100 alt="java logo" />
 <img src="./Pythont.png" width=100 height=100 alt="Python Logo" />
 <img src="./Javascript.png" width=100 height=100 alt="JS Logo" />
+ <img src="./React.png" width=100 height=100 alt="React Logo" />
+  <img src="./Node.png" width=100 height=100 alt="Node Logo" />
+  <img src="./mysql.png" width=100 height=100 alt="mysql Logo" />
 </p>
