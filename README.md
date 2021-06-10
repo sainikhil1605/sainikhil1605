@@ -14,4 +14,5 @@
  <img src="./React.png" width=100 height=100 alt="React Logo" />
   <img src="./Node.png" width=150 height=100 alt="Node Logo" />
   <img src="./mysql.png" width=100 height=100 alt="mysql Logo" />
+ <img src="./MongoDB.jpg" width=100 height=100 alt="Mongo logo" />
 </p>
