@@ -7,6 +7,8 @@
 
 ### Skills
 
+<p float="left">
 <img src="./java.png" width=300 height=300 alt="java logo" />
 <img src="./Pythont.png" width=300 height=300 alt="Python Logo" />
 <img src="./Javascript.png" width=300 height=300 alt="JS Logo" />
+</p>
