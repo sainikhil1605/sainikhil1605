@@ -5,7 +5,9 @@
 - 👯 I’m looking to collaborate on Full Stack Development
 - 📫 Reach me at sainikhilvatti1605@gmail.com 
 
-![](https://komarev.com/ghpvc/?username=sainikhil1605)
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sainikhil1605" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sainikhil1605"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainikhil1605" /></p>
 ### Skills
 
 <p float="left">
