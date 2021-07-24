@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MERN STACK
-- 🌱 I’m currently learning MERN STACK
+- 🔭 I’m currently working on React Native
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Full Stack Development
 - 📫 Reach me at sainikhilvatti1605@gmail.com 
 
