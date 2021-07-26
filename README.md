@@ -1,22 +1,47 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋This is Nikhil!</h1>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" height="200"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+Intern+at+Sureify+Labs;FrontEnd+Developer+and+Competitive+Programmer" />
+</p>
 
 - 🔭 I’m currently working on React Native
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Full Stack Development
-- 📫 Reach me at sainikhilvatti1605@gmail.com 
+
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sainikhil1605" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sainikhil1605"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainikhil1605" /></p>
 
-### Skills
 
-<p float="left">
-<img src="./java.png" width=100 height=100 alt="java logo" />
-<img src="./Pythont.png" width=100 height=100 alt="Python Logo" />
-<img src="./Javascript.png" width=100 height=100 alt="JS Logo" />
- <img src="./React.png" width=100 height=100 alt="React Logo" />
-  <img src="./Node.png" width=150 height=100 alt="Node Logo" />
-  <img src="./mysql.png" width=100 height=100 alt="mysql Logo" />
- <img src="./MongoDB.jpg" width=100 height=100 alt="Mongo logo" />
-</p>
+
+<img id="optionalstuff" alt="Night Coding" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47dcj7w35th4zqt7w360lqh6ey885vmyw03om06wl3&rid=giphy.gif&ct=g" width=400px align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=FFA518)&nbsp;
+![Mongo DB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+
+### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:sainikhilvatti1605@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sai-nikhil-reddy-vatti-90a87b193/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/sainikhilvatti11/"><img src="https://img.shields.io/badge/-Hackerrank-32CD30?style=flat&logo=hackerrank&logoColor=white"/></a>
