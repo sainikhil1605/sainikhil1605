@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+Sureify+Labs;FrontEnd+Developer+and+Competitive+Programmer" />
 </p>
 
-- 🔭 I’m currently working on React Native
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on Full Stack Development
  <p><img align="center" src="https://komarev.com/ghpvc/?username=sainikhil1605&label=Profile%20views&color=0e75b6&style=flat" alt="sainikhil1605" /></p>
 <p align='center'>
 
